@@ -1,4 +1,7 @@
-# CaramelPuddingHere are ingredients needed to prepare caramel pudding: 
+# CaramelPudding
+
+
+Here are ingredients needed to prepare caramel pudding: 
 1. 170grams Sugar
 2. 15ml Water
 3. 3 Egg yolks                                                                                                                                 
@@ -8,6 +11,11 @@
 7. 1 Tablespoon vanilla extract/vanilla essence
 8. Small glasses with Wide opened at the top
 9. A tray with height walls/sides
+
+
+
+
+
 Here's the method how to cook:
 Step1: Take a pot & add 80grams of sugar to it & add 15 ml water once.
 Step2: Boil it on medium flame till it starts breaking bubbles & changes it's colour to brownish.
